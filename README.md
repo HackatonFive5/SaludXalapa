@@ -1,4 +1,4 @@
 BienestarXalapa
 ===============
 
-Temporal Description. Please contact the administrator.
+Hackaton 2014
