@@ -1,4 +1,7 @@
 BienestarXalapa
 ===============
 
-Hackaton 2014
+
+Temporal Description. Please contact the administrator.
+
+hola soy Manzanares
