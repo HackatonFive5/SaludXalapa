@@ -1,0 +1,22 @@
+SS Salud Xalapa
+
+- ¿Qué?
+
+- ¿Para qué?
+
+- ¿Cómo?
+
+__Preguntas__
+	- Si no tiene para costear un medicamento, ¿tendrá para costearse un smartphone?
+	- No estoy muy seguro en el 'cómo'. Preguntar a Osvaldo, que fue quién respondió a esa pregunta el día de ayer
+	- Tampoco estoy seguro de mostrar los costos, por dos razones:
+		1) No hemos contemplado todos los elementos que se necesitan para el desarrollo (también no sé si se iincluye la ganancia que esperas obtener)
+		2) Por temor de que el método utilizado para la estimación esté sub/sobre estimando el tiempo y costo real del proyecto
+
+
+Salud Xalapa es una aplicación móvil Android que incentivar la participación ciudadana en temas de salud
+
+
+
+Salud Xalapa ES una aplicación [...] PARA/CON EL OBETIVO DE/ incentivar la participación ciudadana en temas de salud A TRAVÉS de la implementación de una plataforma tecnologica 
+	
