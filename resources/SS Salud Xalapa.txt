@@ -29,6 +29,7 @@ __Actividades__
 	- Alfonso:
 		* Desarrollo e integración con documento ("Git/SaludXalapa/document/Salud Xalapa.docx") de los estudios de viabilidad y factibilidad
 		* Diseño Web
+		*Ayuda estudio de factibilidad http://www.alcalorpolitico.com/informacion/600-personas-se-han-inscrito-como-donadores-voluntarios-de-sangre-127106.html#.VDp-2vm--b8
 	- Freddy:
 		* Definición de la arquitectura a usar (utilizar de referencia el documento "Dropbox/Hackaton Xalapa 2014/Reto Gob MX.pdf")
 		* Desarrollo, integración y presentación del documento "Git/BienestarXalapa/resources/SS Salud Xalapa.pptx"
