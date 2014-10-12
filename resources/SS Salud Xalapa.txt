@@ -13,6 +13,25 @@ __Preguntas__
 		1) No hemos contemplado todos los elementos que se necesitan para el desarrollo (también no sé si se iincluye la ganancia que esperas obtener)
 		2) Por temor de que el método utilizado para la estimación esté sub/sobre estimando el tiempo y costo real del proyecto
 
+__Actividades__
+	- Osvaldo: 
+		* Definición de la tecnología a usar (utilizar de referencia el documento "Dropbox/Hackaton Xalapa 2014/Reto Gob MX.pdf")
+		* Definición de la arquitectura a usar (utilizar de referencia el documento "Dropbox/Hackaton Xalapa 2014/Reto Gob MX.pdf")
+		* Diseño Web 
+	- Manzanares:
+		* Definición del cronograma (utilizar de referencia el documento "Dropbox/Hackaton Xalapa 2014/Reto Gob MX.pdf")
+		* Desarrollo e integración de los Mockups 
+		* Diseño Móvil
+	- Andrea:
+		* Desarrollo e integración de los Mockups
+		* Definición de la tecnología a usar (utilizar de referencia el documento "Dropbox/Hackaton Xalapa 2014/Reto Gob MX.pdf")
+		* Diseño Móvil
+	- Alfonso:
+		* Desarrollo e integración con documento ("Git/SaludXalapa/document/Salud Xalapa.docx") de los estudios de viabilidad y factibilidad
+		* Diseño Web
+	- Freddy:
+		* Definición de la arquitectura a usar (utilizar de referencia el documento "Dropbox/Hackaton Xalapa 2014/Reto Gob MX.pdf")
+		* Desarrollo, integración y presentación del documento "Git/BienestarXalapa/resources/SS Salud Xalapa.pptx"
 
 Salud Xalapa es una aplicación móvil Android que incentivar la participación ciudadana en temas de salud
 
@@ -20,3 +39,4 @@ Salud Xalapa es una aplicación móvil Android que incentivar la participación 
 
 Salud Xalapa ES una aplicación [...] PARA/CON EL OBETIVO DE/ incentivar la participación ciudadana en temas de salud A TRAVÉS de la implementación de una plataforma tecnologica 
 	
+
