@@ -1,15 +1,19 @@
-BienestarXalapa
+Salud Xalapa
 ===============
+Dentro del marco de la XXIV Cumbre Iberoamericana
+<h3>Hackatón Xalapa 2014 - Soluciones para Nuestra Capital<h3/>
 
-
-Descripción
+<h4>Descripción<h4/>
 Salud Xalapa es una plataforma tecnológica que pretende incentivar la participación ciudadana en temas de salud en la Ciudad de Xalapa a través de una aplicación móvil y web con la intención de disminuir el desconocimiento de información sobre campañas de salud y demás recursos que muestra la Secretaria de Salud. 
 
-Equipo desarrollador
+<h4>Equipo desarrollador<h4/>
 Five5
-	- Corrales Prott, Andrea Lizeth (@AndreaPrott)
-	- Córdova Aburto, Osvaldo (@oca159)
-	- Íñiguez López, Freddy (@DaFreddyIniguez)
-	- Manzanares Ávila, Ricardo (@rikardo0h)
-	- Ramírez Zarate, Lorenzo Alfonso (@Alfonso9)
-Dentro del marco de la XXIV Cumbre Iberoamericana, Hackatón Xalapa 2014 - Soluciones para Nuestra Capital
+
+<UL type = disk >
+	<LI>Corrales Prott, Andrea Lizeth (@AndreaPrott)
+	<LI>Córdova Aburto, Osvaldo (@oca159)
+	<LI>Íñiguez López, Freddy (@DaFreddyIniguez)
+	<LI>Manzanares Ávila, Ricardo (@rikardo0h)
+	<LI>Ramírez Zarate, Lorenzo Alfonso (@Alfonso9)
+</UL>
+
