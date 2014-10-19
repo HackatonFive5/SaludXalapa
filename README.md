@@ -10,7 +10,7 @@ Salud Xalapa es una plataforma tecnológica que pretende incentivar la participa
 Five5
 
 <UL type = disk >
-	<LI>Corrales Prott, Andrea Lizeth (@AndreaPrott)
+	<LI>Corrales Prott, Lizbeth Andrea (@Lizy_6_7)
 	<LI>Córdova Aburto, Osvaldo (@oca159)
 	<LI>Íñiguez López, Freddy (@DaFreddyIniguez)
 	<LI>Manzanares Ávila, Ricardo (@rikardo0h)
